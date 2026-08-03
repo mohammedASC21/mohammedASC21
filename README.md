@@ -58,8 +58,7 @@ Expected Graduation: 2027
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Mohammed Chowdhury](PASTE-YOUR-LINKEDIN-URL-HERE)
-- **Email:** YOUR-PROFESSIONAL-EMAIL-HERE
-
+- **LinkedIn:** [Mohammed Chowdhury](https://www.linkedin.com/in/mohammed29/)
+- **Email:** mohammedchowdhury303@gmail.com
 ---
 Thank you for visiting my GitHub profile!
