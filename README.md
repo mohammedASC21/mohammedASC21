@@ -1,64 +1,55 @@
 # Hi, I'm Mohammed Chowdhury 👋
 
-## Aspiring Software Engineer | AI and Machine Learning
+**Aspiring Software Engineer | Computer Science at Lehman College (CUNY) | Applied AI/ML**
 
-I am a Computer Science student at Lehman College with experience in software
-development, machine learning, data analytics, cybersecurity, and academic research.
+I build practical software and use data to solve real-world problems. I'm pursuing a B.S. in Computer Science (expected **May 2027**) and am working toward a **software engineering** career. My experience spans full-stack development, machine learning, computer vision, data analysis, and research.
 
-I enjoy building practical software and applying artificial intelligence to real-world
-problems. My recent work includes LiDAR semantic segmentation, thermal and mmWave
-radar analysis, fraud detection, and interactive applications.
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mohammed29/) · [Email](mailto:mohammedchowdhury303@gmail.com)
 
-I am currently strengthening my skills in software engineering, machine learning,
-data structures, algorithms, and cloud-based development.
+## 🌊 Break Through Tech AI Studio — Fall 2026
 
-## 🔧 Technical Skills
+**Industry challenge:** [Forecasting Harmful Algal Bloom Risk — Biointerphase](https://github.com/Break-Through-Tech/Biointerphase-1B-forecasting-harmful-algal-bloom-risk)
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Machine Learning:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy  
-**Data and Visualization:** PostgreSQL, Matplotlib, Exploratory Data Analysis  
-**Tools:** Git, GitHub, Docker, Linux, MATLAB, Streamlit  
-**Additional Interests:** Computer Vision, Cybersecurity, Sensor Fusion
+Working with a team to forecast **next-week *Karenia brevis* (red tide) risk near Sarasota, Florida** using historical cell counts, water-quality data, weather, and satellite observations. The project uses time-based training, validation, and test splits to evaluate predictions on later years.
+
+**My contributions:**
+- Led exploratory data analysis to investigate bloom patterns, class imbalance, missing data, and candidate predictors. **[Merged EDA pull request #19](https://github.com/Break-Through-Tech/Biointerphase-1B-forecasting-harmful-algal-bloom-risk/pull/19)**
+- Built and documented feature engineering for historical bloom activity, seasonality, and environmental trends, including a redundancy check. **[Merged feature-engineering pull request #26](https://github.com/Break-Through-Tech/Biointerphase-1B-forecasting-harmful-algal-bloom-risk/pull/26)**
+- Collaborating on model development and evaluation, with an emphasis on performance for less-common bloom classes rather than accuracy alone.
+
+**Stack:** Python, pandas, NumPy, scikit-learn, Jupyter, Matplotlib, Git/GitHub
 
 ## 🚀 Featured Projects
 
-### Thermal and mmWave Radar Research
-- Analyzed thermal-camera and mmWave-radar data for concealed-object detection.
-- Fine-tuned pose-estimation models using thermal imagery.
-- Developed range-azimuth and range-Doppler tracking visualizations.
-- Evaluated gait, movement, and radar signal patterns.
+| Project | What I built or explored | Tools |
+| --- | --- | --- |
+| [**CommuteGuard**](https://github.com/mohammedASC21/CommuteGuard) | Full-stack web application that evaluates live NYC bus observations and provides a conservative commute/backup recommendation. | Next.js, React, TypeScript, Supabase, PostgreSQL |
+| [**Financial Fraud Detection**](https://github.com/mohammedASC21/Financial-Fraud-Detection-Analysis) | Notebook-based machine-learning workflow for transaction analysis, preprocessing, model training, and evaluation. | Python, pandas, scikit-learn, Jupyter |
+| [**PawPal AI**](https://github.com/mohammedASC21/PawPal-AI) | Pet-care planning application with retrieval-augmented generation, a multi-stage planning agent, and a Streamlit interface. | Python, Streamlit, RAG |
+| [**Harmful Algal Bloom Forecasting**](https://github.com/Break-Through-Tech/Biointerphase-1B-forecasting-harmful-algal-bloom-risk) | Team project developing an explainable, reproducible workflow for next-week red tide risk forecasting. | Python, data science, machine learning |
 
-### LiDAR Semantic Segmentation
-- Developed a PointNet-based pipeline for classifying 3D LiDAR point clouds.
-- Processed SemanticKITTI and smart-city testbed datasets.
-- Used TensorFlow, Keras, Python, MATLAB, and CloudCompare.
+## 🧰 Technical Skills
 
-### Financial Fraud Detection
-- Compared Logistic Regression, Random Forest, and K-Nearest Neighbors models.
-- Performed data preprocessing, feature analysis, and model evaluation.
-- Achieved approximately 92% classification accuracy.
+- **Programming:** Python, Java, JavaScript, TypeScript, SQL
+- **Software development:** Next.js, React, Git/GitHub, REST APIs, testing, Docker, Linux
+- **Data and ML:** pandas, NumPy, scikit-learn, TensorFlow/Keras, Matplotlib, Jupyter
+- **Databases:** PostgreSQL, Supabase
+- **Areas of interest:** Backend engineering, applied machine learning, computer vision
 
-### Boulder Ballet Data Analytics
-- Used SQL and PostgreSQL to organize and analyze organizational data.
-- Created new database tables from existing tables through data modeling.
-- Conducted exploratory analysis and produced data visualizations.
+## 🔬 Research Experience
 
-## 🎓 Education
+- **Columbia University SURE (2026):** Investigated thermal imaging, pose estimation, and mmWave radar sensing for multimodal detection and movement analysis.
+- **Florida Atlantic University REU (2025):** Worked on 3D LiDAR semantic segmentation using PointNet and the SemanticKITTI dataset.
 
-**Lehman College, City University of New York**  
-Bachelor of Science in Computer Science  
-Expected Graduation: 2027
+## 📊 Repository Language Snapshot
 
-## 🌱 Currently Learning
+![Most-used languages across my public GitHub repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedASC21&layout=compact&langs_count=6&hide_border=true)
 
-- Data Structures and Algorithms
-- Software Engineering Best Practices
-- Machine Learning and Artificial Intelligence
-- Cloud and Backend Development
+*This chart summarizes code in public repositories; it is not a measure of proficiency.*
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- **LinkedIn:** [Mohammed Chowdhury](https://www.linkedin.com/in/mohammed29/)
-- **Email:** mohammedchowdhury303@gmail.com
----
-Thank you for visiting my GitHub profile!
+I'm interested in software engineering opportunities where I can build reliable products and apply AI/ML when it adds real value.
+
+- **LinkedIn:** [linkedin.com/in/mohammed29](https://www.linkedin.com/in/mohammed29/)
+- **Email:** [mohammedchowdhury303@gmail.com](mailto:mohammedchowdhury303@gmail.com)
